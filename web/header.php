@@ -13,7 +13,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto+Condensed:ital,wght@1,600&family=Roboto:ital@1&display=swap" rel="stylesheet">
     <title>Portfólio</title>
-    <link rel="stylesheet" href="../stylesite/styleeess.css">
+    <link rel="stylesheet" href="../stylesite/styles.css">
 
 </head>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
@@ -34,7 +34,7 @@
             <ul>
                 <li><a href="#">Início</a></li>
                 <li><a href="#">Especialidades</a></li>
-                <li><a href=".backround-image">Sobre</a></li>
+                <li><a href="#about">Sobre</a></li>
                 <li><a href="#">Tratamentos</a></li>
                 <li><a href="#">Contato</a></li>
             </ul>
@@ -58,7 +58,7 @@
                     <h3>Bela Estética<span>.</span></h3>
                     <p>"Bem-vindo à nossa clínica de estética, um refúgio dedicado à sua beleza e bem-estar.
                         Aqui, combinamos expertise e cuidado para proporcionar tratamentos personalizados que
-                        realçam a sua beleza natural.</p><br>
+                        realçam a sua beleza natural.</p>
                     <a href="https://ftd.com.br/" class="bntproj">Saiba mais</a>
                 </div>
             </div>
@@ -67,10 +67,10 @@
         <div class="slide-container">
             <div class="slide">
                 <div class="contentproje">
-                    <h3>Conheça nossos procedimentos<span>.</span></h3><br>
+                    <h3>Conheça nossos tratamentos<span>.</span></h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit aliquid assumenda eaque, inventore
                         pariatur molestias hic, aspernatur nihil ipsam eius magni incidunt? Incidunt eveniet non magnam
-                        reprehenderit beatae doloribus soluta.</p><br>
+                        reprehenderit beatae doloribus soluta.</p>
                     <a href="https://ftd.com.br/" class="bntproj">Saiba mais</a>
                 </div>
             </div>
@@ -79,10 +79,10 @@
         <div class="slide-container">
             <div class="slide">
                 <div class="contentproje">
-                    <h3>Agende sua Avaliação<span>.</span></h3><br>
+                    <h3>Agende sua avaliação<span>.</span></h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi eos, qui obcaecati nulla
                         aliquid non iure autem, esse aliquam itaque rerum nostrum
-                        repudiandae! At eligendi quas provident omnis voluptatem. Dignissimos..</p><br>
+                        repudiandae! At eligendi quas provident omnis voluptatem. Dignissimos..</p>
                     <a href="https://www.escolasconectadas.org.br/cursos" class="bntproj">Saiba mais</a>
                 </div>
             </div>

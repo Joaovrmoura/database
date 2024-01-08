@@ -16,11 +16,14 @@
 <h1 class="sobre " > <span> sobre </span> Nós </h1>
 
 <div class="row">
-
-    <div class="image">
+ 
+        <div class="image">
+        <a class= "clickaq" data-target="#share">
         <img src="../img/velhaface.jpg" alt="">
+        </a>
     </div>
-
+   
+   
     <div class="content">
         <h3>Oque faz nossa clínica especial?</h3>
         <p>Fundada por duas amigas apaixonadas por saúde e beleza, a Clínica Encanto Feminino começou em um pequeno 
@@ -29,7 +32,10 @@
              Hoje, a clínica é reconhecida não apenas pelos tratamentos inovadores, mas pela atmosfera 
              acolhedora que oferece às mulheres que buscam uma pausa revitalizante
              em suas vidas agitadas.</p>
-        <a class="btn" data-target="#share" class="btn-about">Nossas redes</a>
+            
+             <a href="#blogs" class="btn-about">Agendar</a>
+            
+            
     </div>
 
 </div>
@@ -204,7 +210,7 @@
         </div>
         <div class="content">
             <a href="#" class="title">Ácido Hialurônico</a>
-            <span>by admin / 21st may, 2021</span>
+            <span>ola mundo / horários</span>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta.</p>
             <a href="#" class="btn">Agendar/Whatszap</a>
         </div>
@@ -216,7 +222,7 @@
         </div>
         <div class="content">
             <a href="#" class="title">Botox</a>
-            <span>by admin / 21st may, 2021</span>
+            <span>ola mundo / horários</span>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta.</p>
             <a href="#" class="btn">Agendar/Whatszap</a>
         </div>
@@ -228,7 +234,7 @@
         </div>
         <div class="content">
             <a href="#" class="title">Microagulhamento</a>
-            <span>by admin / 21st may, 2021</span>
+            <span>ola mundo / horários</span>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta.</p>
             <a href="#" class="btn">Agendar/Whatszap</a>
         </div>
@@ -270,16 +276,19 @@
 <h1 class="sobre" > <span>Solicite </span> Agora </h1>
 
 <div class="row">
-
+     
     <div class="image">
-        <img src="../img/grupom222222m.png" alt="">
+    <a href="#contact">
+    <img src="../img/grupom222222m.png" alt="">
+    </a>
+        
     </div>
 
     <div class="content">
         <h3>Avaliação Gratuita</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus qui ea ullam, enim tempora ipsum fuga alias quae ratione a officiis id temporibus autem? Quod nemo facilis cupiditate. Ex, vel?</p>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit amet enim quod veritatis, nihil voluptas culpa! Neque consectetur obcaecati sapiente?</p>
-        <a href="#" class="btn-about">Agendar</a>
+        <a href="#contact" class="btn-about">Agendar</a>
     </div>
 
 </div>
@@ -316,7 +325,7 @@
         </div>
         <div class="content">
             <a href="#" class="title">Ácido Hialurônico</a>
-            <span>Agendemento / 21st may, 2021</span>
+            <span>ola mundo / horários</span>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta.</p>
             <a href="#" class="btn">Agendar/Whatszap</a>
         </div>
@@ -328,7 +337,7 @@
         </div>
         <div class="content">
             <a href="#" class="title">Lipoaspiração a laser</a>
-            <span>by admin / 21st may, 2021</span>
+            <span>ola mundo / horários</span>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta.</p>
             <a href="#" class="btn">Agendar/Whatszap</a>
         </div>
@@ -340,7 +349,7 @@
         </div>
         <div class="content">
             <a href="#" class="title">Microagulhamento</a>
-            <span>by admin / 21st may, 2021</span>
+            <span>ola mundo / horários</span>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta.</p>
             <a href="#" class="btn">Agendar/Whatszap</a>
         </div>
@@ -362,7 +371,7 @@
 <!--inicio da sectio tratamentyos-->
 <section class="blogs" id="blogs">
 
-<h1 class="sobre"> feiura<span>menos feios</span> </h1>
+<h1 class="sobre"> Rejuvenescimento<span>Facial</span> </h1>
 
 <div class="box-container">
 
@@ -372,7 +381,7 @@
         </div>
         <div class="content">
             <a href="#" class="title">Ácido Hialurônico</a>
-            <span>by admin / 21st may, 2021</span>
+            <span>ola mundo / horários</span>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta.</p>
             <a href="#" class="btn">Agendar/Whatszap</a>
         </div>
@@ -384,7 +393,7 @@
         </div>
         <div class="content">
             <a href="#" class="title">Botox</a>
-            <span>by admin / 21st may, 2021</span>
+            <span>ola mundo / horários</span>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta.</p>
             <a href="#" class="btn">Agendar/Whatszap</a>
         </div>
@@ -396,7 +405,7 @@
         </div>
         <div class="content">
             <a href="#" class="title">Microagulhamento</a>
-            <span>by admin / 21st may, 2021</span>
+            <span>ola mundo / horários</span>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, dicta.</p>
             <a href="#" class="btn">Agendar/Whatszap</a>
         </div>
@@ -406,20 +415,6 @@
 
 </section>
 <!--final da sectio tratamentyos-->
-
-<script>
-        // Adiciona um evento de clique ao botão ou foto desejado
-        document.querySelector('.btn').addEventListener('click', function() {
-            // Rola a página até a posição da seção desejada
-            const targetSection = document.querySelector(this.getAttribute('data-target'));
-            if (targetSection) {
-                window.scrollTo({
-                    top: targetSection.offsetTop,
-                    behavior: 'smooth'
-                });
-            }
-        });
-    </script>
 
 </body>
 </html>

@@ -29,9 +29,9 @@
                     $_SESSION['senha'] = $row['senha'];
                 }else{
                     echo "<div class='message'>
-                      <p>Wrong Username or Password</p>
+                      <p>Nome ou senha incorretos</p>
                        </div> <br>";
-                   echo "<a href='login.php'><button class='btn'>Go Back</button>";
+                   echo "<a href='login.php'><button class='btn'>Voltar</button>";
          
                 }
                 if(isset($_SESSION['valid'])){

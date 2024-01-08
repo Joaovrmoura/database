@@ -35,6 +35,7 @@
 
 /*titulo dentro da imagem*/
 .containerproje .slide-container .slide .contentproje h3{
+    margin-top: 10rem;
     font-size: 35px;
     color:  #8dc9fa;
     font-family: 'Poppins', sans-serif;
@@ -47,6 +48,7 @@
 
 /*texto dentro da imagem*/
 .containerproje .slide-container .slide .contentproje p{
+    margin-top: 3rem;
     font-size: 20px;
     color: #464545;
     font-family: 'Poppins', sans-serif;
@@ -56,12 +58,12 @@
 }
 /*buttom config*/
 .containerproje .slide-container .slide .contentproje .bntproj{
-    margin-top: 10px;
+    margin-top: 20px;
     display: inline-block;
     background: #8dc9fa;
     color: #ffffff;
     font-size: 17px;
-    padding: 9px 40px;
+    padding: 15px 40px;
     border-radius: 30px;
     border: 2px solid  #8dc9fa;
     font-family: 'Poppins', sans-serif;
@@ -70,7 +72,7 @@
 
 .containerproje .slide-container .slide .contentproje .bntproj:hover{
     background: #8dc9fa;
-    border: 2px solid #fdaaef;
+    border: 2px solid #92d1ee;
     color: #ffffff;
 }
 
@@ -99,7 +101,7 @@
 }
 
 .containerproje .slide-container:nth-child(3) .slide{
-    background: url(../img/corpo.png);
+    background: url(../img/2.png);
     background-size:cover;
     background-repeat: no-repeat;
     width: 100vw;
