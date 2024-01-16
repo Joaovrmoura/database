@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="logiin.css">
+    <link rel="stylesheet" href="../stylesite/lognn.css">
     <title>Login</title>
 </head>
 <body>
@@ -35,7 +35,7 @@
          
                 }
                 if(isset($_SESSION['valid'])){
-                    header("Location: ../web/header.php");
+                    header("Location: ../admin/index.php");
                 }
               }else{
 
@@ -43,15 +43,22 @@
             ?>
             <header>Login</header>
             <form action="" method="post">
+
+            <div class="field input">
+                    <label for="nome">Nome completo</label>
+                    <input type="text" name="nome" id="nome" autocomplete="off" required>
+                </div>
+
                 <div class="field input">
                     <label for="email">Email</label>
                     <input type="text" name="email" id="email" autocomplete="off" required>
                 </div>
 
                 <div class="field input">
-                    <label for="senha">Password</label>
-                    <input type="password" name="senha" id="senha" autocomplete="off" required>
+                    <label for="numero">Número para contato</label>
+                    <input type="number" name="numero" id="numero" autocomplete="off" required>
                 </div>
+
 
                 <div class="field">
                     
